@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class CharacterMovement : MonoBehaviour {
+    // Just a comment.
 	GameObject mainCam;
 	private float zval;
 	private float xval;
