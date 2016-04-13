@@ -64,6 +64,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Analytics.cs" />
     <Compile Include="Assets\CharacterMovement.cs" />
     <Compile Include="Assets\PauseMenu.cs" />
     <Compile Include="Assets\Rotorz\Tile System\Demo\Hat Guy\Scripts\HatGuyCameraFollow.cs" />
