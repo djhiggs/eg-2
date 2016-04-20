@@ -6,6 +6,9 @@ TagManager:
   tags:
   - ReverseCam
   - FwdCam
+  - Fire
+  - PushPullDetection
+  - Crate
   layers:
   - Default
   - TransparentFX
