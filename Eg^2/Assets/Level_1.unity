@@ -524,7 +524,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400060, guid: 6cdda5074b4905c439ddddb5716e7317, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.337
+      value: 2.12
       objectReference: {fileID: 0}
     - target: {fileID: 400060, guid: 6cdda5074b4905c439ddddb5716e7317, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1823,7 +1823,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 775167912}
   m_LocalRotation: {x: 0.13268572, y: 0, z: 0, w: 0.9911582}
-  m_LocalPosition: {x: -1.5500005, y: 2.9490001, z: -12.140005}
+  m_LocalPosition: {x: 3.25, y: 2.9490001, z: -12.140005}
   m_LocalScale: {x: 1, y: 1, z: 0.6551997}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2211,8 +2211,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ef49fbbff72a84419964f53d10b9143, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 10
-  jumpForce: 300
+  movementSpeed: 5
+  jumpForce: 150
 --- !u!4 &1008223050 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400060, guid: 6cdda5074b4905c439ddddb5716e7317, type: 3}
