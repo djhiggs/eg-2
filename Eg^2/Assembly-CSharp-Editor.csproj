@@ -99,13 +99,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
  <Reference Include="Rotorz.ReorderableList.Editor">
- <HintPath>C:/Users/programmer/Documents/eg-2/Eg^2/Assets/Rotorz/Common/Editor/Rotorz.ReorderableList.Editor.dll</HintPath>
+ <HintPath>C:/Users/programmer/Documents/GitHub/eg-2/Eg^2/Assets/Rotorz/Common/Editor/Rotorz.ReorderableList.Editor.dll</HintPath>
  </Reference>
  <Reference Include="TileSystem.Runtime">
- <HintPath>C:/Users/programmer/Documents/eg-2/Eg^2/Assets/Rotorz/Tile System/TileSystem.Runtime.dll</HintPath>
+ <HintPath>C:/Users/programmer/Documents/GitHub/eg-2/Eg^2/Assets/Rotorz/Tile System/TileSystem.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="TileSystem.Editor">
- <HintPath>C:/Users/programmer/Documents/eg-2/Eg^2/Assets/Rotorz/Tile System/Editor/TileSystem.Editor.dll</HintPath>
+ <HintPath>C:/Users/programmer/Documents/GitHub/eg-2/Eg^2/Assets/Rotorz/Tile System/Editor/TileSystem.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
